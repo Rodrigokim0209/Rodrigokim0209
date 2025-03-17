@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is ("Rodrigo Camacho")
-   (what's your name")
+Hola mi nombre es Rodrigo
+tu cómo te llamas ?
 <!--
 **Rodrigokim0209/Rodrigokim0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
